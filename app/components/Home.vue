@@ -3,7 +3,9 @@
     <ActionBar>
       <Label text="UnwantedTherapy" class="font-bold text-lg" />
     </ActionBar>
-
+    <div id="app">
+      <img src="bruh.jpg" />
+    </div>
     <GridLayout>
       <Label
         class="text-xl align-middle text-center text-black-500"
